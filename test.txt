@@ -1,6 +1,11 @@
 Rakesh
 <<<<<<< HEAD
+<<<<<<< HEAD
 Adding line to create conflict
 =======
 
 >>>>>>> 09af78c8378467b0d52630cedfa8d838d7779a40
+=======
+Amith
+Nikhil
+>>>>>>> 811287aad517a9d7c0b02c9e8f2dfec41a6b2fe6
